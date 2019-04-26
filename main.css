@@ -107,30 +107,30 @@ footer li img {
 }
 
 .firstfav {
-  font-size: 20px;
-  font-weight: 700;
-  color: lightblue;
+  font-size: 30px;
+  font-weight: 900;
+  color: black;
   text-align: center;
 }
 
 .secondfav {
-  font-size: 25px;
-  font-weight: 800;
-  color: lightgreen;
+  font-size: 30px;
+  font-weight: 900;
+  color: black;
   text-align: center;
 }
 
 .thirdfav {
   font-size: 30px;
   font-weight: 900;
-  color: orange;
+  color: black;
   text-align: center;
 }
 
 .fourthfav {
-  font-size: 35px;
-  font-weight: 1000;
-  color: red;
+  font-size: 30px;
+  font-weight: 900;
+  color: black;
   text-align: center;
 }
 
@@ -140,22 +140,22 @@ footer li img {
 }
 
 #firstquote {
-  color:lightblue;
-  font-size: 30px;
+  color:skyblue;
+  font-size: 20px;
   font-family: 'Roboto';
   
 }
 
 #secondquote {
-  color: lightgreen;
-  font-size: 25px;
-  font-family: 'Courier New';
+  color: skyblue;
+  font-size: 20px;
+  font-family: 'Roboto';
   
 }
 
 #thirdquote {
-  color: hotpink;
+  color: skyblue;
   font-size: 20px;
-  font-family: 'Times New Roman';
+  font-family: 'Roboto';
   
 }
